@@ -1,2 +1,2 @@
 # Hello
-My first repository <br> It's me.
+My first repository. <br> It's me.
